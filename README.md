@@ -1,1 +1,1 @@
-frontend mentor
+My first repository as a frontend developer
